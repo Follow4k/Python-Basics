@@ -1,0 +1,1 @@
+Despues de muchos videos para aprender Python, dejo en este archivo, todo lo que fui viendo/aprendiendo y los ejercicios "Basicos (sin apis)" que fui realizando
