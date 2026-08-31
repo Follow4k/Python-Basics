@@ -10,3 +10,4 @@ print(nombre_curso[0])  # Imprimir X caracter marcado dentro de []
 print(nombre_curso[0:8])  # Primer caracter hasta el 8
 print(nombre_curso[9:])   # Caracter 9 en adelante
 print(nombre_curso[:8])   # Caracter 8 para atras
+print(nombre_curso[:])    # Imprime todo
