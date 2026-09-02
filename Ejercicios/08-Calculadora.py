@@ -19,3 +19,4 @@ el resultado de la division es {div}
 print(mensaje)
 
 # {Indica las variables}
+# Como seria con botones y que la persona elija la operacion a realizar?
