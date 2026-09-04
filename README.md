@@ -1,1 +1,2 @@
 Despues de muchos videos y clases para aprender Python, dejo en este archivo, todo lo que fui viendo/aprendiendo y los ejercicios "Basicos (sin apis)" que fui realizando
+LO convertire en un roadmap con el paso del tiempo
